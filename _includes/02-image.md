@@ -1,1 +1,1 @@
-![Cartoon of Simon Surprenant](me.png)
+![Cartoon of Simon Surprenant](/me.png)
